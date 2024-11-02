@@ -1,7 +1,7 @@
 # 💻 Hello World!
 <p>
 
-Hi ✌️! I'm Eduardo, a full-stack developer in the making. I'm passionate about technology and I'm always looking for new ways to learn and grow. 
+Hi ✌️! I'm Eduardo, a full-stack developer. I'm passionate about technology and I'm always looking for new ways to learn and grow. 
 
 <div>
 <details>
