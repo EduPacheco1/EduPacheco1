@@ -19,7 +19,7 @@ Hi ✌️! I'm Eduardo, a full-stack developer. I'm passionate about technology 
   
 
 <div align:"center">
-  <a href="https://github.com/EduardoPacheco6">
+  <a href="https://github.com/EduPacheco1">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPacheco6&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
