@@ -1,19 +1,7 @@
 # 💻 Hello World!
 <p>
 
-Hi ✌️! I'm Eduardo, a full-stack developer. I'm passionate about technology and I'm always looking for new ways to learn and grow. 
-
-<div>
-<details>
-  <summary>💡 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 📫 Reach me out at **edu.pacheco.carvalho@gmail.com**
-
-</details>
+Hi ✌️! I'm Eduardo, 14+ years in ERP management and development. Solid experience in process optimization, system implementation, and consulting. Strategically transitioned to backend. Build scalable and efficient systems. Constantly seeking new challenges and technologies to enhance my solutions.
   
 </p>
   
