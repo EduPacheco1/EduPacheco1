@@ -1,7 +1,7 @@
 # 💻 Hello World!
 <p>
 
-Hi ✌️! I'm Eduardo, 14+ years in ERP management and development. Solid experience in process optimization, system implementation, and consulting. Strategically transitioned to backend. Build scalable and efficient systems. Constantly seeking new challenges and technologies to enhance my solutions.
+Hi ✌️! I'm Eduardo, 10+ years in ERP management and development. Solid experience in process optimization, system implementation, and consulting. Strategically transitioned to backend. Build scalable and efficient systems. Constantly seeking new challenges and technologies to enhance my solutions.
   
 </p>
   
